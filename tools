@@ -32,12 +32,12 @@ exit
 }
 
 echo -e $red"         ***********************************************"
-echo -e $white"         # $red MR PLUG1N TOOLS         $white               #"
-echo -e $red"         # $red Private Tools        $red             #"
-echo -e $white"         # $red contact: mr.plug1n@programmer.net $white            #"
+echo -e $white"         # $red MR PLUG1N TOOLS         
+echo -e $red"         # $red Private Tools        
+echo -e $white"         # $red contact: mr.plug1n@programmer.net $white           
 echo -e $red"         # $white greetz : ALL HACKERS INDONESIA $red#"
-echo -e $white"         # $white copyright : ./Mr Plug1n    $white                #"
-echo -e $red"         # $white thanks to : Mr.OneJack , Mr.W1LD , XransX $red             #"
+echo -e $white"         # $white copyright : ./Mr Plug1n    $white               
+echo -e $red"         # $white thanks to : Mr.OneJack , Mr.W1LD , XransX 
 echo -e $white"         ***********************************************"
 echo ""
 echo -e $green" 01) Red Hawk"
