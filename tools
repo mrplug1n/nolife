@@ -1,7 +1,7 @@
 #!/data/data/com.termux/files/usr/bin/bash
-# Auto Install Tools v.2.1
-# coded By Mr.Cakil 
-# gausah ganti copyright kalo mau di hargai
+# Auto Install Tools 
+# coded By Mr.Plug1n
+# Jan Cury Lah Tod _-
 # Bersihkan Layar
 clear
 
@@ -33,7 +33,7 @@ exit
 
 echo -e $red"         ***********************************************"
 echo -e $white"         # $red MR PLUG1N TOOLS         $white               #"
-echo -e $red"         # $red Gua Ganteng : )             $red             #"
+echo -e $red"         # $red Private Tools        $red             #"
 echo -e $white"         # $red contact: mr.plug1n@programmer.net $white            #"
 echo -e $red"         # $white greetz : ALL HACKERS INDONESIA $red#"
 echo -e $white"         # $white copyright : ./Mr Plug1n    $white                #"
@@ -94,9 +94,10 @@ echo -e $green" 51) spammer-grab sms"
 echo -e $green" 52) spammer call toko-pedia"
 echo -e $green" 53) The Fat Rat"
 echo -e $green" 54) IPGeolocation"
-echo -e $green" 55) exit"
+echo -e $green" 55) MBF"
+echo -e $green" 56) exit"
 echo -e $white""
-read -p "[mrplug1n@Tools]> " act;
+read -p "[root@mrplugin]> " act;
 
 if [ $act = 01 ] || [ $act = 01 ]
 then
@@ -878,6 +879,20 @@ echo -e $red" Done Install cuk "
 fi
 
 if [ $act = 55 ] || [ $act = 55 ]
+then
+clear
+echo -e $green" installing MBF "
+sleep 1
+apt-get update && apt-get upgrade
+apt-get install git
+apt install python2
+git clone https://github.com/hnov7/mbf
+cd mbf
+sleep 1
+echo -e $red" Done Install cuk "
+fi
+
+if [ $act = 56 ] || [ $act = 56 ]
 then
 echo -e $green" pesan terakhir "
 sleep 1
