@@ -31,14 +31,14 @@ read enter
 exit
 }
 
-echo -e $red"         ***********************************************"
-echo -e $white"         # $red MR PLUG1N TOOLS         
-echo -e $red"         # $red Private Tools        
-echo -e $white"         # $red contact: mr.plug1n@programmer.net $white           
-echo -e $red"         # $white greetz : ALL HACKERS INDONESIA $red#"
-echo -e $white"         # $white copyright : ./Mr Plug1n    $white               
-echo -e $red"         # $white thanks to : Mr.OneJack , Mr.W1LD , XransX 
-echo -e $white"         ***********************************************"
+echo -e $red"         *************************************************"
+echo -e $white"       # $red MR PLUG1N TOOLS                         $white #"        
+echo -e $red"         # $red Private Tools                           $red #"     
+echo -e $white"       # $red contact: mr.plug1n@programmer.net       $white #"          
+echo -e $red"         # $white greetz : ALL HACKERS INDONESIA        $red #"
+echo -e $white"       # $white copyright : ./Mr Plug1n               $white #"            
+echo -e $red"         # $white thanks to : Mr.OneJack , XransX       $red #"
+echo -e $white"       *************************************************"
 echo ""
 echo -e $green" 01) Red Hawk"
 echo -e $green" 02) D-Tect"
@@ -46,7 +46,7 @@ echo -e $green" 03) Hunner"
 echo -e $green" 04) WPScan"
 echo -e $green" 05) Webdav"
 echo -e $green" 06) Metasploit"
-echo -e $green" 07) Kali Nethunter"
+echo -e $green" 07) Kali Nethunter
 echo -e $green" 08) Ubuntu"
 echo -e $green" 09) Youtube Dl"
 echo -e $green" 10) viSQL "
@@ -55,7 +55,7 @@ echo -e $green" 12) WFDroid"
 echo -e $green" 13) FBBrute"
 echo -e $green" 14) Ngrok"
 echo -e $green" 15) Torshammer "
-echo -e $green" 16) RouterSploit "
+echo -e $green" 16) RouterSploit 
 echo -e $green" 17) Hydra "
 echo -e $green" 18) Weevely "
 echo -e $green" 19) SQLMap "
@@ -64,7 +64,7 @@ echo -e $green" 21) admin finder "
 echo -e $green" 22) lokomedia exploiter "
 echo -e $green" 23) elfinder exploiter "
 echo -e $green" 24) magento add admin exploiter "
-echo -e $green" 25) scanner tools "
+echo -e $green" 25) scanner tools 
 echo -e $green" 26) bing dorker "
 echo -e $green" 27) katoolin "
 echo -e $green" 28) arch linux "
